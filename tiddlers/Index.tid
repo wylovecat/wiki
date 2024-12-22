@@ -1,6 +1,6 @@
 created: 20241221090714525
 creator: 吴尧
-modified: 20241222163915764
+modified: 20241222164231799
 modifier: 吴尧
 title: Index
 type: text/vnd.tiddlywiki
@@ -8,3 +8,5 @@ type: text/vnd.tiddlywiki
 Click {{$:/core/images/edit-button}} button on top-right of this card to start edit.
 
 Visit [[教程 (Chinese)|https://tw-cn.netlify.app/]] or [[Official Site (English)|https://tiddlywiki.com/]] to learn.
+
+<<reuse-tiddler "快速创建新笔记按钮">>
